@@ -1,13 +1,16 @@
-## Jira Link
+### Brief Description
 - 
 
-## Description
+### Acceptance Criteria
+- 
 - 
 
-## Acceptance Criteria
-- 
+<br/>
 
-## URL to test location
-- 
+### Jira Link [Here]()
+<br/>
 
-## Screen Shots for before and after (if applicable)
+### Link to Local Host Bug Area [Here]()
+<br/>
+
+### Screen Shots for before and after (if applicable)
