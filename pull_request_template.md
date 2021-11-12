@@ -1,16 +1,34 @@
-### Brief Description
-- 
+## Brief Description
+(Before and after screenshots or video if applicable)
 
-### Acceptance Criteria
-- 
-- 
+[Jira Ticket](https://fearless.jira.com/browse/SM-)
+
 
 <br/>
 
-### Jira Link [Here]()
+
+
+## Notes 
+
+
 <br/>
 
-### Link to Local Host Bug Area [Here]()
+
+
+## Acceptance Criteria
+- [ ] 
+- [ ] 
+
 <br/>
 
-### Screen Shots for before and after (if applicable)
+
+
+## Testing the PR
+
+[Local Environment URL](http://localhost:8000/)
+
+### Steps to test:
+1.
+1.
+
+<br/>
